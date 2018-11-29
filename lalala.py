@@ -1,0 +1,2 @@
+class chris:
+	name = "Chris"
